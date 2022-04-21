@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="80dp"
+        android:gravity="center"
+        android:hint="@string/this_is_1"
+        android:layout_centerVertical="true"
+        android:textSize="30sp"
+        android:textColor="@color/black"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/one">
+    </EditText>
+
+    <Button
+        android:id="@+id/button_go"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="420dp"
+        android:text="GO!"
+        android:textSize="40sp" />
+</RelativeLayout>
+

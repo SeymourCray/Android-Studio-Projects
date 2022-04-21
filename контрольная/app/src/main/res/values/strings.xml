@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="headtext">Переутомление (Ортастатическая проба)</string>
+    <string name="test">Тест</string>
+    <string name="desc">Для прохождения теста необходимо иметь возможность лечь на 5 минут. Время проведения теста около 10-15 минут.</string>
+    <string name="birthday">День вашего рождения:</string>
+    <string name="text2">1. Необходимо лечь и лежать 5 минут почти без движений.</string>
+    <string name="text9">Пол.</string>
+    <string name="text3">2. Посчтиать пульс в течении минуты.</string>
+    <string name="text4">3. Введите пульс в положении лежа.</string>
+    <string name="text5">4. Встать и стоять почти без движений 5 минут.</string>
+    <string name="text6">5. Посчитать пульс в течении минуты.</string>
+    <string name="text7">6. Введите пульс в положении стоя.</string>
+    <string name="text8">8. Нажмите "Ввод". Тест завершен!</string>
+    <string name="text12">Результаты теста!</string>
+    <string name="text13">Не забывай о регулярном профессионарльном медицинском осмотре!</string>
+    <string name="button_text">Ввод</string>
+
+</resources>

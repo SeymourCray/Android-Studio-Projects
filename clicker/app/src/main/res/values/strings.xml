@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">clicker</string>
+    <string name="button_1">click me</string>
+    <string name="text">0</string>
+    <string name="button_2">click me too!</string>
+    <string name="button_3">drop!</string>
+</resources>

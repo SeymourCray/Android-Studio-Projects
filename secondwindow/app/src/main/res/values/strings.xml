@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">second window</string>
+    <string name="this_is_1">enter your name</string>
+    <string name="this_is_2">This is Activity 2</string>
+    <string name="this_is_3">This is Activity 3</string>
+    <string name="this_is_4">This is Activity 4</string>
+</resources>
